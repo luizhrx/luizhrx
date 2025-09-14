@@ -1,4 +1,4 @@
-<h3 align="left">👋 Olá, eu sou o Luiz!<br><br>🎓 Estudante de Ciência da Computação (2º período)  <br>💻 Aprendendo C , Python e N8N, além de conceitos de algoritmos e estruturas de dados <br>🚀 Interesse em desenvolvimento Back-End e APIs</h3>
+<h4 align="left">👋 Olá, eu sou o Luiz!<br><br>🎓 Estudante de Ciência da Computação (2º período)  <br>💻 Aprendendo C , Python e N8N, além de conceitos de algoritmos e estruturas de dados <br>🚀 Interesse em desenvolvimento Back-End e APIs</h4>
 
 ###
 
@@ -34,6 +34,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luizhrx/luizhrx/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
