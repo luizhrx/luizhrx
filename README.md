@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ luiz-henrique-02bbb8362" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-henrique-02bbb8362/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_luizhrx/" target="_blank">
@@ -33,8 +33,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/luizhrx/luizhrx/output/snake.svg" alt="Snake animation" />
 
