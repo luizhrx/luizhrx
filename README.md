@@ -1,4 +1,4 @@
-<h3 align="left">👋 Olá, eu sou o Luiz!<br><br>🎓 Estudante de **Ciência da Computação** (2º período)  <br>💻 Aprendendo **C , Python e N8N**, além de conceitos de **algoritmos e estruturas de dados**  <br>🚀 Interesse em desenvolvimento **Back-End** e **APIs**</h3>
+<h3 align="left">👋 Olá, eu sou o Luiz!<br><br>🎓 Estudante de Ciência da Computação (2º período)  <br>💻 Aprendendo C , Python e N8N, além de conceitos de algoritmos e estruturas de dados <br>🚀 Interesse em desenvolvimento Back-End e APIs</h3>
 
 ###
 
