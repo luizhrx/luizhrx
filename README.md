@@ -43,5 +43,12 @@ Sou estudante de Ciência da Computação (2º período) com interesse em Desenv
 <br clear="both">
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizhrx/luizhrx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
