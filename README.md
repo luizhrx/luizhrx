@@ -1,11 +1,11 @@
 <h1>Luiz Henrique</h1>
 <strong><code class="inline-code">Desenvolvedor Backend</code></strong><br><br>
-Sou estudante de Ciência da Computação (2º período) com interesse em Desenvolvimento Backend. Possuo conhecimento em Java,Python, SQL e Git, e estou sempre aprimorando minha lógica de programação e boas práticas de código. Busco oportunidades para aplicar conhecimentos, aprender com projetos reais e evoluir de forma constante na área.
+Sou estudante de Ciência da Computação (3º período) com interesse em Desenvolvimento Backend. Possuo conhecimento em Java,Python, SQL e Git, e estou sempre aprimorando minha lógica de programação e boas práticas de código. Busco oportunidades para aplicar conhecimentos, aprender com projetos reais e evoluir de forma constante na área.
 
 
 
 ###
-<br><h2>🔧 Tecnologias</h2>
+<br><h2> 🤖 Linguagens e Tecnologias</h2>
 <div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -28,7 +28,7 @@ Sou estudante de Ciência da Computação (2º período) com interesse em Desenv
   <a href="https://www.instagram.com/_luizhrx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-henrique-02bbb8362/" target="_blank">
+  <a href="https://www.linkedin.com/in/luizhrx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
