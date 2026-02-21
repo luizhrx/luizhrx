@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=120&section=header"/>
 </p>
 <h1>Luiz Henrique</h1>
-<strong><code class="inline-code">Desenvolvedor Backend</code></strong><br><br>
-Sou estudante de Ciência da Computação (3º período) com interesse em Desenvolvimento Backend. Possuo conhecimento em Java,Python, SQL e Git, e estou sempre aprimorando minha lógica de programação e boas práticas de código. Busco oportunidades para aplicar conhecimentos, aprender com projetos reais e evoluir de forma constante na área.
+<strong><code class="inline-code">Backend Developer</code></strong><br><br>
+Estudante de Ciência da Computação (3º período) com foco em desenvolvimento backend. Experiência com Java, consumo de APIs REST, manipulação de JSON e integração com bancos de dados SQL. Busco oportunidades para aplicar boas práticas de código, evoluir tecnicamente e contribuir com projetos reais.
 
 
 
@@ -24,6 +24,8 @@ Sou estudante de Ciência da Computação (3º período) com interesse em Desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 
 </div><br>
+
+
 
 ###
 <br><h2>📬 Entre em Contato</h2>
