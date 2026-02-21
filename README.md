@@ -1,3 +1,6 @@
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=120&section=header"/>
+</p>
 <h1>Luiz Henrique</h1>
 <strong><code class="inline-code">Desenvolvedor Backend</code></strong><br><br>
 Sou estudante de Ciência da Computação (3º período) com interesse em Desenvolvimento Backend. Possuo conhecimento em Java,Python, SQL e Git, e estou sempre aprimorando minha lógica de programação e boas práticas de código. Busco oportunidades para aplicar conhecimentos, aprender com projetos reais e evoluir de forma constante na área.
