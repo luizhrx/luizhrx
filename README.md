@@ -3,7 +3,9 @@
 </p>
 <h1>Luiz Henrique</h1>
 <strong><code class="inline-code">Backend Developer</code></strong><br><br>
-Estudante de Ciência da Computação (3º período) com foco em desenvolvimento backend. Experiência com Java, consumo de APIs REST, manipulação de JSON e integração com bancos de dados SQL. Busco oportunidades para aplicar boas práticas de código, evoluir tecnicamente e contribuir com projetos reais.
+Estudante de Ciência da Computação | Desenvolvedor Backend Java & Spring Boot
+
+Focado na construção de APIs REST robustas utilizando o ecossistema Spring (Boot, Data JPA, Security). Experiência técnica em persistência de dados com PostgreSQL, integração de APIs externas e aplicação de padrões como DTOs e Service Layer. Pratico o desenvolvimento baseado em boas práticas e estou em busca de novos desafios para criar soluções escaláveis e eficientes.
 
 
 
