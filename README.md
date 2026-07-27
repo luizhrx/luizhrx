@@ -23,7 +23,7 @@ Hoje, como estudante de Ciência da Computação (3º período) na Unipê, coloc
 
 <div align="left">
 
-🛒 **[CoreX](https://github.com/luizhrx)** — Aplicação full-stack de e-commerce: backend em Java + Spring Boot (Spring Security com JWT, PostgreSQL/MySQL) e frontend em React + TypeScript + Tailwind CSS.
+🛒 **[CoreX]((https://github.com/luizhrx/e-commerce))** — Aplicação full-stack de e-commerce: backend em Java + Spring Boot (Spring Security com JWT, PostgreSQL/MySQL) e frontend em React + TypeScript + Tailwind CSS.
 
 </div>
 
